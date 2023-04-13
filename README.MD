@@ -1,3 +1,5 @@
+Follow this instructions to get started with PRISM TS SDK. 
+
 Ensure that you have Node.js (preferably the latest LTS version) installed on your computer. 
 
 Create a new directory for your project and navigate to it using your terminal or command prompt.
